@@ -1,0 +1,3 @@
+# Inverted_Index_MiniProject1
+
+Description needs to be added...
